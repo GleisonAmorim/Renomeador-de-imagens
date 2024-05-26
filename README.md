@@ -1,5 +1,7 @@
 # Renomeador de Imagens
 
+![Renomeador](https://github.com/GleisonAmorim/Renomeador-de-imagens/assets/54336609/c555bf45-be59-46bd-8fab-942eb72581e9)
+
 O Renomeador de Imagens é uma ferramenta desenvolvida em Python que permite renomear várias imagens com base em um arquivo Excel contendo uma lista de nomes de arquivo atual e os novos nomes desejados.
 
 ## Funcionalidades Principais:
